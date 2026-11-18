@@ -4,9 +4,9 @@
 
 | Role | Name | Student ID | GitHub Username |
 |---|---|---|---|
-| Team Member 1 | <Full name> | <ID number> | <GitHub username> |
-| Team Member 2 | <Full name> | <ID number> | <GitHub username> |
-| Team Member 3 (if applicable) | <Full name> | <ID number> | <GitHub username> |
+| Team Member 1 | <Vineetha Dammu> | <2520030149> | <vincco> |
+| Team Member 2 | <Mahitha Reddy> | <2520030469> | <shortwhale> |
+
 
 **Supervisor:** <Supervisor's full name>  
 **Branch:** <Branch name>  
